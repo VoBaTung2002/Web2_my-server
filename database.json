@@ -1,0 +1,57 @@
+[
+    {
+        "sachID":"b1",
+        "tenSach":"Cho tôi xin một vé đi tuổi thơ",
+        "giaBan":220000,
+        "moTa":"Cuốn sách kể về câu chuyện của chàng trai Bùi trên hành trình tìm lại ký ức tuổi thơ đã xa lắm rồi. Cuốn sách đầy cảm xúc và nổi tiếng của tác giả Nguyễn Nhật Ánh",
+        "anhBia":"b1.jpg",
+        "ngayCapNhat":"01-10-2021",
+        "soLuongTon":"30",
+        "maCD":"1",
+        "maNXB": "NXB Trẻ"
+    },
+    {
+        "sachID":"b2",
+        "tenSach":"Cô gái đến từ hôm qua",
+        "giaBan":150000,
+        "moTa":"Một câu chuyện tình cảm đậm chất tuổi học trò, kể về chàng trai Tùng và cô gái Nguyệt, những người đã từng học chung một lớp và rồi xa nhau đến nỗi không còn nhớ nhau nữa. Tuy nhiên, cuộc gặp lại tình cờ trong một chuyến du lịch đã khiến họ nhớ lại ký ức ngày xưa và dần dần đắm chìm trong tình yêu đong đầy.",
+        "anhBia":"b2.jpg",
+        "ngayCapNhat":"23-05-2022",
+        "soLuongTon":"15",
+        "maCD":"2",
+        "maNXB": "NXB Kim Đồng"
+    },
+    {
+        "sachID":"b3",
+        "tenSach":"Tôi thấy hoa vàng trên cỏ xanh",
+        "giaBan":200000,
+        "moTa":"Một câu chuyện đầy nước mắt về tuổi thơ, về những kỷ niệm ngày xưa đong đầy cảm xúc. Tác phẩm kể về những năm tháng thơ ấu của cậu bé Thi và những người bạn thân thiết của mình, đặc biệt là cô bạn Hạnh.",
+        "anhBia":"b3.jpg",
+        "ngayCapNhat":"25-10-2021",
+        "soLuongTon":"20",
+        "maCD":"3",
+        "maNXB": "NXB Trẻ"
+    },
+    {
+        "sachID":"b4",
+        "tenSach":"Kính vạn hoa",
+        "giaBan":345000,
+        "moTa":"Một câu chuyện tình yêu đầy sâu sắc và đau đớn, kể về cuộc tình giữa Thắm và Dũng. Hai con người hoàn toàn trái ngược nhau, nhưng lại hội tụ vào những giá trị về tình yêu và sự hy sinh.",
+        "anhBia":"b4.jpg",
+        "ngayCapNhat":"23-11-2022",
+        "soLuongTon":"14",
+        "maCD":"4",
+        "maNXB": "NXB Kim Đồng"
+    },
+    {
+        "sachID":"b5",
+        "tenSach":"Mắt biếc",
+        "giaBan":175000,
+        "moTa":"Một trong những tác phẩm nổi tiếng nhất của Nguyễn Nhật Ánh nói về chuyện tình của Ngạn và Hà Lan.",
+        "anhBia":"b5.jpg",
+        "ngayCapNhat":"11-12-2022",
+        "soLuongTon":"11",
+        "maCD":"5",
+        "maNXB": "NXB Trẻ"
+    } 
+]
